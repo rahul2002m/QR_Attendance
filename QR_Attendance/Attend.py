@@ -1,6 +1,6 @@
 from tkinter.constants import GROOVE, RAISED, RIDGE
 import cv2
-import pyzbar.pyzbar as pyzbar
+import pyzbar
 import time
 from datetime import date, datetime
 import tkinter as tk 
