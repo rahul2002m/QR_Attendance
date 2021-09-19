@@ -10,8 +10,6 @@ from tkinter import *
 window = tk.Tk()
 window.title('Attendance System V-089')
 window.geometry('900x600') 
-                          
-                          
 year= tk.StringVar()      
 branch= tk.StringVar()
 sec= tk.StringVar() 
@@ -51,8 +49,6 @@ def checkk():
 
 exit_button = tk.Button(window,width=13, text="Submit",font=("Times New Roman", 15),command=checkk,bd=2,relief=RIDGE)
 exit_button.place(x=300,y=380)
-
-
 
 Manag_Frame=Frame(window,bg="lavender")
 Manag_Frame.place(x=480,y=80,width=450,height=530)
