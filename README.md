@@ -6,4 +6,3 @@ This project is an attendance system which provides attendance on scanning QR co
 * On start of Attend.py, a GUI is displayed in which all fields are mandatory.<br>
 * To exit the scanner press 'g' in your keyboard.<br>
 
-Do install the required modules present in requirements.txt
